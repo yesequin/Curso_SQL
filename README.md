@@ -1,5 +1,7 @@
 # SQL
 
+[Version en notion](https://www.notion.so/SQL-b64a58655086465ab84508b253ccc65c) ![notion](images_SQL/notion.PNG)
+
 - BREVE HISTORIA DE SQL
     
     SQL (Structured Query Language - Lenguaje de consulta estructurada) es un lenguaje que se basó en 2 principios fundamentales:
